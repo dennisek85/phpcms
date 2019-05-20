@@ -1,1 +1,1 @@
-cms
+Small project to learn PHP
